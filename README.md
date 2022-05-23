@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/45658614/169858709-fec91add-d115-4097-8e73-c16d9d6059c9.png)
+![BannerAdev2](https://user-images.githubusercontent.com/45658614/169918268-405dbcd3-bfe2-478a-bd44-e7001b94d0bb.jpg)
 
 ## Hola, Yo soy Adelvis
 ### Soy Ingeniero en Informática. Desarrolladora Web full-Stack 
@@ -8,7 +8,7 @@ Soy una apasionada del Desarrollo Web, me gusta estar en constante búsqueda de 
 
 ### Conectate conmigo:
 
-<a href=”https://www.linkedin.com/in/adelvis-uzcategui-581057103/"><img align=”left” src=”https://https://github.com/adelvis/adelvis/img/linkedin.png" alt=”Adelvis|LinkedIn” ancho =”21px”/></a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adelvis-uzcategui-581057103/)
 
 
 ### Idiomas y Herramientas:
