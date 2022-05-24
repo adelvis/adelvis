@@ -4,7 +4,7 @@
 ### Soy Ingeniero en Informática. Desarrolladora Web full-Stack 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
-Soy una apasionada del Desarrollo Web, me gusta estar en constante búsqueda de conocimientos para seguir desarrollando mis habilidades, ya que este es un ámbito que està en continua expansión.
+Soy una apasionada del Desarrollo Web, me gusta estar en constante búsqueda de conocimientos para seguir desarrollando mis habilidades, ya que este es un ámbito que está en continua expansión.
 
 ### Conectate conmigo:
 
