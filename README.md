@@ -4,7 +4,11 @@
 ### Soy Ingeniero en Informática. Desarrolladora Web full-Stack 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
-Soy una apasionada del Desarrollo Web, me gusta estar en constante búsqueda de conocimientos para seguir desarrollando mis habilidades, ya que este es un ámbito que está en continua expansión.
+Soy ingeniero en informática, he trabajado en el área de software y arquitectura a lo largo de estos años, he participado en las diferentes etapas que conlleva a la creación de sistema informático, lo que me ha ayudado a tener una visión mas amplia de lo que incluye todo el proceso creativo que nace con una idea y se cristaliza en una solución de software.
+
+Me gusta seguir explorando en nuevos conocimientos, eso me ayuda a crecer personalmente y poder seguir desarrollando mis habilidades, soy autodidacta, considero la responsabilidad, el respeto, la honestidad, solidaridad, compromiso, como valores principales a aplicar en todo ámbito tanto laboral como personal.
+
+Me considero una profesional con la capacidad de trabajar de manera coordinada y en sinergia, para el alcance de los objetivos comunes al equipo de trabajo y superar retos laborales, así como capacidad de adaptación a las distintas plataformas tecnológicas, en búsqueda de mejoras a nivel profesional y personal.
 
 ### Conectate conmigo:
 
